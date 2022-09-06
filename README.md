@@ -26,25 +26,26 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="PhotoShop" width="26px" src="https://iconape.com/wp-content/png_logo_vector/iconfinder-3.png" style="padding-right:10px;" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Premiere pro" width="26px" src="https://brandlogos.net/wp-content/uploads/2022/04/adobe_premiere_pro-logo-brandlogos.net_-512x512.png" style="padding-right:10px;" />]
-[<img align="left" alt="SQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/4039/4039675.png" style="padding-right:10px;" />]
-[<img align="left" alt="Java" width="26px" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Eclipse" width="26px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" style="padding-right:10px;" />]
-[<img align="left" alt="Adobe XD" width="26px" src="https://www.logo.wine/a/logo/Adobe_XD/Adobe_XD-Logo.wine.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Atom" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Icon_Atom.svg/615px-Icon_Atom.svg.png?20180219174319" style="padding-right:10px;" />]
-[<img align="left" alt="oracle" width="26px" src="https://www.logo.wine/a/logo/Oracle_Corporation/Oracle_Corporation-Logo.wine.svg" style="padding-right:10px;" />]
-[<img align="left" alt="kali linux" width="26px" src="https://freesvg.org/img/Kali.png" style="padding-right:10px;" />]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="visual studio" width="26px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" style="padding-right:10px;" />]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
-<!-- [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />] -->
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="PhotoShop" width="26px" src="https://iconape.com/wp-content/png_logo_vector/iconfinder-3.png" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Premiere pro" width="26px" src="https://brandlogos.net/wp-content/uploads/2022/04/adobe_premiere_pro-logo-brandlogos.net_-512x512.png" style="padding-right:10px;" />
+<img align="left" alt="SQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/4039/4039675.png" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" style="padding-right:10px;" />
+<img align="left" alt="Eclipse" width="26px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" style="padding-right:10px;" />
+<img align="left" alt="Adobe XD" width="26px" src="https://www.logo.wine/a/logo/Adobe_XD/Adobe_XD-Logo.wine.svg" style="padding-right:10px;" />
+<img align="left" alt="Atom" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Icon_Atom.svg/615px-Icon_Atom.svg.png?20180219174319" style="padding-right:10px;" />
+<img align="left" alt="oracle" width="26px" src="https://www.logo.wine/a/logo/Oracle_Corporation/Oracle_Corporation-Logo.wine.svg" style="padding-right:10px;" />
+<img align="left" alt="kali linux" width="26px" src="https://freesvg.org/img/Kali.png" style="padding-right:10px" >
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="visual studio" width="26px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+
 
 
 <details>
