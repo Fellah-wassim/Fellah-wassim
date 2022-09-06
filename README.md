@@ -40,6 +40,7 @@
 <img align="left" alt="oracle" width="56px" src="https://www.logo.wine/a/logo/Oracle_Corporation/Oracle_Corporation-Logo.wine.svg" style="padding-right:10px;" />
 <img align="left" alt="kali linux" width="56px" src="https://freesvg.org/img/Kali.png" style="padding-right:10px" >
 <img align="left" alt="React" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<br />
 <img align="left" alt="visual studio" width="56px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
