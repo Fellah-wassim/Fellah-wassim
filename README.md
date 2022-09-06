@@ -1,6 +1,6 @@
 # Hi there, I'm Wassim - Fellah
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/fellah_wassim)
+[![Twitter Follow](https://img.shields.io/twitter/follow/fellah_wassim?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/fellah_wassim)
 
 ## I'm a student, Front-end web developer and a graphic designer!!
 
@@ -51,14 +51,11 @@
 
 ---
 
-
   <summary>:zap: GitHub Stats</summary>
   <br />
   <img align="left" alt="Wassim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fellah-wassim" />
 
-
-
-<!-- [website]: https://porfolio-wassim-fellah.netlify.app/index.html
+[website]: https://porfolio-wassim-fellah.netlify.app/index.html
 [twitter]: https://twitter.com/fellah_wassim
 [instagram]: https://www.instagram.com/wassim.fellah/?hl=en
-[linkedin]: https://www.linkedin.com/in/wassim-fellah-921a5921a/ -->
+[linkedin]: https://www.linkedin.com/in/wassim-fellah-921a5921a/
