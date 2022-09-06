@@ -38,7 +38,7 @@
 <img align="left" alt="Adobe XD" width="46px" src="https://www.logo.wine/a/logo/Adobe_XD/Adobe_XD-Logo.wine.svg" style="padding-right:10px;" />
 <img align="left" alt="Atom" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Icon_Atom.svg/615px-Icon_Atom.svg.png?20180219174319" style="padding-right:10px;" />
 <img align="left" alt="oracle" width="46px" src="https://www.logo.wine/a/logo/Oracle_Corporation/Oracle_Corporation-Logo.wine.svg" style="padding-right:10px;" />
-<img align="left" alt="kali linux" width="46px" src="https://freesvg.org/img/Kali.png" style="padding-right:10px" >
+<img align="left" alt="linux" width="46px" src="https://icons.iconarchive.com/icons/tatice/operating-systems/256/Linux-icon.png" style="padding-right:10px" >
 <img align="left" alt="React" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="visual studio" width="46px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
