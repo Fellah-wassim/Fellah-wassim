@@ -30,12 +30,10 @@
 [<img align="left" alt="PhotoShop" width="26px" src="https://iconape.com/wp-content/png_logo_vector/iconfinder-3.png" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Premiere pro" width="26px" src="https://brandlogos.net/wp-content/uploads/2022/04/adobe_premiere_pro-logo-brandlogos.net_-512x512.png" style="padding-right:10px;" />]
 [<img align="left" alt="SQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/4039/4039675.png" style="padding-right:10px;" />]
 [<img align="left" alt="Java" width="26px" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" style="padding-right:10px;" />]
-
 [<img align="left" alt="Eclipse" width="26px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" style="padding-right:10px;" />]
 [<img align="left" alt="Adobe XD" width="26px" src="https://www.logo.wine/a/logo/Adobe_XD/Adobe_XD-Logo.wine.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Atom" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Icon_Atom.svg/615px-Icon_Atom.svg.png?20180219174319" style="padding-right:10px;" />]
