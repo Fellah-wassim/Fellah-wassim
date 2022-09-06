@@ -51,10 +51,10 @@
 
 ---
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="Wassim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fellah-wassim" />
-</details>
+
 
 
 <!-- [website]: https://porfolio-wassim-fellah.netlify.app/index.html
