@@ -31,6 +31,7 @@
 <img align="left" alt="HTML5" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+
 <img align="left" alt="Premiere pro" width="46px" src="https://brandlogos.net/wp-content/uploads/2022/04/adobe_premiere_pro-logo-brandlogos.net_-512x512.png" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="46px" src="https://cdn-icons-png.flaticon.com/512/4039/4039675.png" style="padding-right:10px;" />
 <img align="left" alt="Java" width="46px" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" style="padding-right:10px;" />
