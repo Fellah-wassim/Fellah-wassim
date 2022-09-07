@@ -59,7 +59,6 @@
   <summary>:zap: GitHub Stats</summary>
   <br />
   <img align="left" alt="Wassim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fellah-wassim" />
-<details>
 [website]: https://porfolio-wassim-fellah.netlify.app/index.html
 [twitter]: https://twitter.com/fellah_wassim
 [instagram]: https://www.instagram.com/wassim.fellah/?hl=en
