@@ -55,11 +55,14 @@
 <br />
 <br />
 <br />
+
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <br />
-  <img align="left" alt="Wassim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fellah-wassim" />
- </details>
+
+  <img align="left" alt="Wassim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fellah-wassim&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
+
 [website]: https://porfolio-wassim-fellah.netlify.app/index.html
 [twitter]: https://twitter.com/fellah_wassim
 [instagram]: https://www.instagram.com/wassim.fellah/?hl=en
