@@ -51,8 +51,7 @@
 <img align="left" alt="microsoft office" width="46px" src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" style="padding-right:10px;" />
 <img align="left" alt="canva" width="46px" src="https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png" style="padding-right:10px;" />
 <img align="left" alt="dribble" width="46px" src="https://www.svgrepo.com/show/217757/dribbble.svg" style="padding-right:10px;" />
-<img align="left" alt="google" width="46px" src="![image](https://user-images.githubusercontent.com/87939891/189423564-eef70ece-9b82-4998-8be8-bd514c517b3c.png)
-" style="padding-right:10px;" />
+<img align="left" alt="google" width="46px" src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png" style="padding-right:10px;" />
 <br />
 <br />
 <br />
