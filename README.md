@@ -52,6 +52,7 @@
 <img align="left" alt="canva" width="46px" src="https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png" style="padding-right:10px;" />
 <img align="left" alt="dribble" width="46px" src="https://www.svgrepo.com/show/217757/dribbble.svg" style="padding-right:10px;" />
 <img align="left" alt="google" width="46px" src="https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png" style="padding-right:10px;" />
+<img align="left" alt="stackoverfflow" width="46px" src="https://www.svgrepo.com/show/349517/stackoverflow.svg" style="padding-right:10px;" />
 <br />
 <br />
 <br />
