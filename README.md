@@ -49,6 +49,7 @@
 <img align="left" alt="Netlify" width="46px" src="https://www.svgrepo.com/show/331495/netlify.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="46px" src="https://img.icons8.com/color/344/figma--v1.png" style="padding-right:10px;" />
 <img align="left" alt="microsoft office" width="46px" src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" style="padding-right:10px;" />
+<img align="left" alt="microsoft office" width="46px" src="https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png" style="padding-right:10px;" />
 <br />
 <br />
 <br />
