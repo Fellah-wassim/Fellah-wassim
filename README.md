@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Full Stack Web Development
 - 👀 I’m interested in software engineering.
 - 🥅 2023 Goals: Learn more about web development & graphic design.
-- ⚡ Fun fact: I love to draw and play football.
+- ⚡ Fun fact: I love to draw, play football and cook.
 - 🥊Professional boxing athlete.
 
 ### Connect with me:
