@@ -46,10 +46,10 @@
 <img align="left" alt="MySQL" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="46px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="46px" src="https://img.icons8.com/color/344/c-programming.png" style="padding-right:10px;" />
-<img align="left" alt="Netlify" width="46px" src="https://www.svgrepo.com/show/331495/netlify.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="46px" src="https://img.icons8.com/color/344/figma--v1.png" style="padding-right:10px;" />
 <img align="left" alt="microsoft office" width="46px" src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="46px" src="https://img.icons8.com/color/344/c-programming.png" style="padding-right:10px;" />
+<img align="left" alt="Netlify" width="46px" src="https://www.svgrepo.com/show/331495/netlify.svg" style="padding-right:10px;" />
 <img align="left" alt="canva" width="46px" src="https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png" style="padding-right:10px;" />
 <img align="left" alt="dribble" width="46px" src="https://www.svgrepo.com/show/217757/dribbble.svg" style="padding-right:10px;" />
 <img align="left" alt="stackoverfflow" width="46px" src="https://www.svgrepo.com/show/349517/stackoverflow.svg" style="padding-right:10px;" />
