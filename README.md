@@ -5,7 +5,7 @@
 ## I'm a student, Front-end web developer and a graphic designer!!
 
 - 🌱 I’m currently learning Full Stack Web Development
-- 👀 I’m interested in software engineering.
+- 👀 I’m interested in Software Engineering.
 - 🥅 2023 Goals: Learn more about web development & graphic design.
 - ⚡ Fun fact: I love to draw, play football and cook.
 - 🥊Professional boxing athlete.
