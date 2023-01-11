@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/fellah_wassim?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/fellah_wassim)
 
-## I'm a student, Front-end web developer and a graphic designer!!
+## Student, Front-end web developer and graphic designer!!
 
 - 🌱 I’m currently learning Full Stack Web Development
 - 👀 I’m interested in Software Engineering.
