@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning MERN stack developement and how to write clean codes
 - 👀 I’m interested in Software Engineering.
-- 🥅 2023 Goals: Learn more about web development & graphic design.
 - ⚡ Fun fact: I love to draw, play football and cook.
 - 🥊Professional boxing athlete.
 
