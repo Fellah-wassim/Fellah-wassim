@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg) target=”_blank”](https://porfolio-wassim-fellah.netlify.app/index.html#gh-light-mode-only)
+[![website](./img/globe-light.svg)](https://porfolio-wassim-fellah.netlify.app/index.html#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://porfolio-wassim-fellah.netlify.app/index.html#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/fellah_wassim#gh-light-mode-only)
