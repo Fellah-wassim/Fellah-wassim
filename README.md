@@ -62,14 +62,12 @@
  <br />
   <br />
 <details open>
-  <br />
-  
-  <summary>:zap: GitHub Stats</summary>
-<div>
-<img align="left" alt="Fellah wassim github status" src="https://github-readme-stats.vercel.app/api?username=Fellah-wassim&hide=contribs,prs" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fellah-wassim&show_icons=true&locale=en&layout=compact" alt="Fellah-wassim" />
+ <br />
+ <summary>:zap: GitHub Stats</summary>
+ <div>
+ <img align="left" alt="Fellah wassim github status" src="https://github-readme-stats.vercel.app/api?username=Fellah-wassim&hide=contribs,prs" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fellah-wassim&show_icons=true&locale=en&layout=compact" alt="Fellah-wassim" />
  </div>
-
 </details>
 
 [website]: https://porfolio-wassim-fellah.netlify.app/index.html
