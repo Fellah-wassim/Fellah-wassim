@@ -27,6 +27,11 @@
 
 
 <img align="left" alt="PhotoShop" width="46px" src="https://iconape.com/wp-content/png_logo_vector/iconfinder-3.png" style="padding-right:10px;" />
+
+<a href="https://www.w3.org/html/" target="_blank"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original-wordmark.svg"
+            alt="html5" width="32" height="32" /> </a>&#160;
+
 <img align="left" alt="Visual Studio Code" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
