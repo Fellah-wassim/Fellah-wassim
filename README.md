@@ -61,7 +61,7 @@
 <br />
  <br />
   <br />
-<details>
+<details open>
   <br />
   
   <summary>:zap: GitHub Stats</summary>
