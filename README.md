@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wassim-fellah-921a5921a/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/fellah_wassim?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/fellah_wassim)
 
-## Student, Front-end web developer and graphic designer!!
+## Student & Front-end web developer!!
 
 - 🌱 I’m currently learning MERN stack developement and how to write clean codes
 - 👀 I’m interested in Software Engineering.
