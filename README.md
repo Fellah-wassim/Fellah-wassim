@@ -27,11 +27,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,git,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=ps,ts,tailwind,stackoverflow,react,py,vscode,vite,visualstudio,vim,vercel,xd,docker,c,pr,powershell,php,ps,nodejs,netlify,mysql,linux,js,java,git,github,html,css,figma,eclipse,bootstrap,atom,ae" />
   </a>
 </p>
 
-<img align="left" alt="PhotoShop" width="46px" src="https://iconape.com/wp-content/png_logo_vector/iconfinder-3.png" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
