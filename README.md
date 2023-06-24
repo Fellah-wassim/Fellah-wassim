@@ -25,7 +25,7 @@
 
 ### Languages and Tools:
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps,ts,tailwind,stackoverflow,react,py,vscode,vite,visualstudio,vim,vercel,xd,docker,c,pr,powershell,php,ps,nodejs,netlify,mysql,linux,js,java,git,github,html,css,figma,eclipse,bootstrap,atom,ae" />
   </a>
