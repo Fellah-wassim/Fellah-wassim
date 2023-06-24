@@ -31,32 +31,6 @@
   </a>
 </p>
 
-<img align="left" alt="Visual Studio Code" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Premiere pro" width="46px" src="https://brandlogos.net/wp-content/uploads/2022/04/adobe_premiere_pro-logo-brandlogos.net_-512x512.png" style="padding-right:10px;" />
-<img align="left" alt="SQL" width="46px" src="https://cdn-icons-png.flaticon.com/512/4039/4039675.png" style="padding-right:10px;" />
-<img align="left" alt="Java" width="46px" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" style="padding-right:10px;" />
-<img align="left" alt="Eclipse" width="46px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" style="padding-right:10px;" />
-<img align="left" alt="Atom" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Icon_Atom.svg/615px-Icon_Atom.svg.png?20180219174319" style="padding-right:10px;" />
-
-<img align="left" alt="oracle" width="46px" src="https://www.logo.wine/a/logo/Oracle_Corporation/Oracle_Corporation-Logo.wine.svg" style="padding-right:10px;" />
-<img align="left" alt="Adobe XD" width="46px" src="https://www.logo.wine/a/logo/Adobe_XD/Adobe_XD-Logo.wine.svg" style="padding-right:10px;" />
-<img align="left" alt="linux" width="46px" src="https://icons.iconarchive.com/icons/tatice/operating-systems/256/Linux-icon.png" style="padding-right:10px" >
-<img align="left" alt="React" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="visual studio" width="46px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="46px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Figma" width="46px" src="https://img.icons8.com/color/344/figma--v1.png" style="padding-right:10px;" />
-<img align="left" alt="microsoft office" width="46px" src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="46px" src="https://img.icons8.com/color/344/c-programming.png" style="padding-right:10px;" />
-<img align="left" alt="Netlify" width="46px" src="https://www.svgrepo.com/show/331495/netlify.svg" style="padding-right:10px;" />
-<img align="left" alt="canva" width="46px" src="https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png" style="padding-right:10px;" />
-<img align="left" alt="dribble" width="46px" src="https://www.svgrepo.com/show/217757/dribbble.svg" style="padding-right:10px;" />
-<img align="left" alt="stackoverfflow" width="46px" src="https://www.svgrepo.com/show/349517/stackoverflow.svg" style="padding-right:10px;" />
 
 <br />
 <br />
