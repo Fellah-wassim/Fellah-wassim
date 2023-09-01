@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning MERN stack developement and how to write clean codes
 - 👀 I’m interested in Software Engineering.
 - ⚡ Fun fact: I love to draw, play football and cook.
-- 🥊Professional boxing athlete.
+- 🥊Amateur boxing athlete.
 
 ### Connect with me:
 
@@ -35,7 +35,7 @@
 <br />
 <br />
 
-<details open>
+<details closed>
  <br />
  <summary>:zap: GitHub Stats</summary>
  <div>
