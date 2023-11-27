@@ -5,9 +5,9 @@
 ## Student & Front-end web developer!!
 
 - 🌱 I’m currently learning MERN stack developement and how to write clean codes
-- 👀 I’m interested in Software Engineering.
+- 👀 Interested in Artificial Intelligence.
 - ⚡ Fun fact: I love to draw, play football and cook.
-- 🥊Amateur boxing athlete.
+- 🥊 Amateur boxing athlete.
 - 🕋 وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ
 
 ### Connect with me:
