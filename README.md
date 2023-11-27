@@ -8,6 +8,7 @@
 - 👀 I’m interested in Software Engineering.
 - ⚡ Fun fact: I love to draw, play football and cook.
 - 🥊Amateur boxing athlete.
+- 🕋 وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ
 
 ### Connect with me:
 
