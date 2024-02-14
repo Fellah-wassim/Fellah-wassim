@@ -13,8 +13,7 @@
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://wassim-fellah-portfolio.vercel.app/)
-[![website](./img/globe-dark.svg)](https://wassim-fellah-portfolio.vercel.app/)
-&nbsp;&nbsp;
+
 [![website](./img/twitter-light.svg)](https://twitter.com/fellah_wassim#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/fellah_wassim#gh-dark-mode-only)
 &nbsp;&nbsp;
