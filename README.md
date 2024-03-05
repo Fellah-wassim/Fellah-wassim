@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wassim-fellah-921a5921a/)
 
-## Student & Front-end web developer!!
+## Front-end Developer!
 
 - 🌱 I’m currently learning MERN stack developement and how to write clean codes
 - 👀 Interested in Artificial Intelligence.
