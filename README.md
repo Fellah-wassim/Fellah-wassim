@@ -4,7 +4,7 @@
 
 ## Front-end Developer!
 
-- 🌱 I’m currently learning MERN stack developement and how to write clean codes
+- 🌱 Born to be special
 - 👀 Interested in Artificial Intelligence.
 - ⚡ Fun fact: I love to draw, play football and cook.
 - 🥊 Amateur boxing athlete.
