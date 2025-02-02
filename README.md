@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wassim-fellah-921a5921a/)
 
-## Front-end Developer!
+## Front-end Developer! 
 
 - 🌱 Born to be special
 - 👀 Interested in Artificial Intelligence.
