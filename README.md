@@ -34,7 +34,7 @@
 <br />
 <br />
 
-<details closed>
+<details>
  <br />
  <summary>:zap: GitHub Stats</summary>
  <div>
@@ -46,3 +46,4 @@
 [twitter]: https://twitter.com/fellah_wassim
 [instagram]: https://www.instagram.com/wassim.fellah/?hl=en
 [linkedin]: https://www.linkedin.com/in/wassim-fellah-921a5921a/
+
